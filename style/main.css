@@ -1,0 +1,1 @@
+.custom_css_property{--primary-color: green;color:var(--primary-color)}.container{background:#f8fafc}.container .box-title{display:none}.grid{display:flex}.grid .grid-cell{border:1px solid #ccc;height:32px;line-height:32px;flex:1;background:#bababa;text-align:center}
